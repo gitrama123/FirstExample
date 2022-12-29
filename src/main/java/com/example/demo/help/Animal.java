@@ -6,4 +6,8 @@ public class Animal {
 		System.out.println("Hello");
 		
 	}
+	public void get() {
+		System.out.println("Hello HI");
+		
+	}
 }
